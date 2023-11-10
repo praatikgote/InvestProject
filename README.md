@@ -1,2 +1,2 @@
 # InvestProject
-This is our iFnal year engineering final project of investing applications.
+This is our Final year engineering final project on investing applications.
